@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="3"
+            tests="1">
+
+  <testsuite name="marcFooter"
+    errors="0" failures="3" hostname="" id="" package="marcFooter" skipped="0"
+    tests="1" time="22.58" timestamp="">
+  
+    <testcase name="Check Footer Links" classname="marcFooter" time="22.58" assertions="34">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="About Tesla in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Footer Links (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcFooter.js:28:21)</failure>
+
+    
+
+    
+
+    
+
+      <failure message="Legal in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Footer Links (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcFooter.js:36:21)</failure>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Forums in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Footer Links (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcFooter.js:69:21)</failure>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="teslaShop"
+    errors="0" failures="0" hostname="" id="" package="teslaShop" skipped="0"
+    tests="3" time="90.16" timestamp="">
+  
+    <testcase name="General Browsing" classname="teslaShop" time="88.52" assertions="52">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Headers and Filters" classname="teslaShop" time="0.9010" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Search Bar" classname="teslaShop" time="0.7340" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

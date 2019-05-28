@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="9"
+            failures="23"
+            tests="1">
+
+  <testsuite name="marcTeslaModelS"
+    errors="9" failures="23" hostname="" id="" package="marcTeslaModelS" skipped="0"
+    tests="1" time="52.30" timestamp="">
+  
+    <testcase name="Check Model S page" classname="marcTeslaModelS" time="52.30" assertions="51">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Autopilot in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:62:21)</failure>
+
+      <failure message="Future of Driving in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:63:21)</failure>
+
+      <failure message="Learn More in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:64:21)</failure>
+
+    
+
+      <failure message="Features in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:68:21)</failure>
+
+    
+
+      <failure message="Interior in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:75:21)</failure>
+
+      <failure message="Built Around the Driver in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:76:21)</failure>
+
+      <failure message="Learn More in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:77:21)</failure>
+
+    
+
+    
+
+      <failure message="Exterior in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:87:21)</failure>
+
+      <failure message="Designed for Efficiency in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:88:21)</failure>
+
+      <failure message="Learn More in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:89:21)</failure>
+
+    
+
+      <failure message="Signature Colors in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:93:21)</failure>
+
+    
+
+      <failure message="Specs in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:100:21)</failure>
+
+      <failure message="Performance in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:101:21)</failure>
+
+      <failure message="Long Range in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:102:21)</failure>
+
+      <failure message="Standard Range in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:103:21)</failure>
+
+      <failure message="3.7 seconds 0-60 mph in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:106:21)</failure>
+
+      <failure message="370 miles (EPA est.) in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:107:21)</failure>
+
+      <failure message="4.0 seconds 0-60 mph in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:110:21)</failure>
+
+      <failure message="285 miles (EPA est.) in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:111:21)</failure>
+
+      <failure message="2.4 seconds 0-60 mph in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:114:21)</failure>
+
+      <failure message="345 miles (EPA est.) in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:115:21)</failure>
+
+      <failure message="Expand List in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;false&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:116:21)</failure>
+
+      <failure message="Timed out while waiting for element &lt;(//*[@class=&#34;expand g-button-round-icon&#34;])[7]&gt; to be present for 1000 milliseconds. - expected [0;32m&#34;found&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at Object.Check Model S page (C:\Users\Mat\DevMountain\teslaShopMergeTest\tests\marcTeslaModelS.js:117:14)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

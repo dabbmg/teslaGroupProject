@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="5"
+            failures="2"
+            tests="5">
+
+  <testsuite name="teslaShop"
+    errors="5" failures="2" hostname="" id="" package="teslaShop" skipped="0"
+    tests="5" time="106.0" timestamp="">
+  
+    <testcase name="Account Features" classname="teslaShop" time="1.017" assertions="0">
+    </testcase>
+  
+    <testcase name="Footers" classname="teslaShop" time="23.16" assertions="57">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Testing if element &lt;h1[class=&#34;section-title&#34;]&gt; contains text: &#34;Careers&#34; in 1000 ms. - expected [0;32m&#34;Careers&#34;[0m but got: [0;31m&#34;Internships &amp; Co-Ops&#34;[0m">    at NightwatchAPI.&lt;anonymous&gt; (C:\Users\Mat\DevMountain\teslaShop\test-assets\footers.js:51:32)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)</failure>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="General Browsing" classname="teslaShop" time="59.10" assertions="52">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Headers and Filters" classname="teslaShop" time="0.7360" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Search Bar" classname="teslaShop" time="22.00" assertions="5">
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;span[class=&#34;productlister__container__searchterm&#34;]&gt; to be present for 10000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at module.exports (C:\Users\Mat\DevMountain\teslaShop\test-assets\searchBar.js:12:6)
+    at Page.search (C:\Users\Mat\DevMountain\teslaShop\pageObjects\shop.js:26:9)
+    at Object.Search Bar (C:\Users\Mat\DevMountain\teslaShop\tests\teslaShop.js:41:10)</failure>
+
+    <failure message="    at module.exports (C:\Users\Mat\DevMountain\teslaShop\test-assets\searchBar.js:12:6)">    at Page.search (C:\Users\Mat\DevMountain\teslaShop\pageObjects\shop.js:26:9)
+    at Object.Search Bar (C:\Users\Mat\DevMountain\teslaShop\tests\teslaShop.js:41:10)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
