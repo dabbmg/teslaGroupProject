@@ -32,16 +32,27 @@ module.exports = {
           "browserName": "chrome",
         }
       },
-        "mobile": {
-          "desiredCapabilities": {
-          "browserName": "chrome",
-          "chromeOptions": {
-            mobileEmulation: {
-              "deviceName": "iPhone X"
-            },
-        },
-        },
-        },
+      "mobile": {
+        "desiredCapabilities": {
+        "browserName": "chrome",
+        "chromeOptions": {
+          "args": [
+            "window-size=375,812"
+          ]
+      },
+      },
+      },
+      
+        // "mobile": {
+        //   "desiredCapabilities": {
+        //   "browserName": "chrome",
+        //   "chromeOptions": {
+        //     mobileEmulation: {
+        //       "deviceName": "iPhone X"
+        //     },
+        // },
+        // },
+        // },
       "firefox" : {
         "desiredCapabilities": {
           "browserName": "firefox",
