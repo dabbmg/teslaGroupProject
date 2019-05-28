@@ -6,6 +6,7 @@ let headerFilter = require('../test-assets/headerFilter')
 let searchBar = require('../test-assets/searchBar')
 let skip = require('../test-assets/skip')
 let genBrowseMobile = require('../test-assets/genBrowseMobile')
+let mobileLogin = require('../test-assets/mobileLogin')
 //
 var shopCommands = {
     accFeat: function(shopPage) {
@@ -35,7 +36,12 @@ var shopCommands = {
     mobile: function(shopPage) {
         genBrowseMobile(shopPage)
         return this
+    },
+    mobileLgn: function(shopPage) {
+        mobileLogin(shopPage)
+        return this
     }
+
 }
 module.exports = {
     url: 'https://shop.tesla.com',
