@@ -7,8 +7,8 @@
 //Login Password: nicepassword123
 module.exports = (browser) => {
     browser
-    .waitForElementVisible('label[for="tsla-header-main--trigger"]', 10000)
-    .click('label[for="tsla-header-main--trigger"]')
+    .waitForElementVisible('span[class="tsla-header-main--trigger_icon"]', 10000)
+    .click('span[class="tsla-header-main--trigger_icon"]')
     .pause(2000)
     .click('a[class="tsla-header-nav--list_link tsla-link_for-login enable-mobile-link"]')
     .waitForElementVisible('input[id="sign-in-email"]', 10000)

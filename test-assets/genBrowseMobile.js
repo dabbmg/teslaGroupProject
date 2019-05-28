@@ -49,5 +49,7 @@ module.exports = (browser) => {
     .click('(//a[@href="/us/en/category/vehicle-accessories/model-s.html"])[3]')
     .waitForElementVisible('//strong', 10000)
     .verify.containsText('//strong', 'Model S')
+    //Back to CSS
+    .useCss()
     
 }
