@@ -1,3 +1,7 @@
+//Mathew Dabb
+///////////////////////////////
+//Referring to issue TESLA-57//
+///////////////////////////////
 module.exports = (browser) => {
     browser
     .waitForElementVisible('label[for="tsla-header-main--trigger"]', 10000)
