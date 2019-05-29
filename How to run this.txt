@@ -1,6 +1,6 @@
 //Move your nightwatch.props.js into "teslaGroupProject"
 
 //Run the Fllowing Command
-//Command: nightwatch -e default -t tests/teslaShop.js && nightwatch -e mobile -t tests/matTeslaShopM.js && nightwatch -e default -t tests/marcFooter.js && nightwatch -e default -t tests/MarcTeslaModelS.js && nightwatch -e default -t tests/mattyTeslaMainPageVerticals.js && nightwatch -e default -t tests/tyCustomization.js
+//Command: nightwatch -e default -t tests/teslaShop.js && nightwatch -e mobile -t tests/matTeslaShopM.js && nightwatch -e default -t tests/marcFooter.js && nightwatch -e default -t tests/MarcTeslaModelS.js && nightwatch -e default -t tests/mattyTeslaMainPageVerticals.js && nightwatch -e default -t tests/tyCustomization.js && nightwatch -t tests/mattyTeslaDropDownMenu.js
 
 
