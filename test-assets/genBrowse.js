@@ -130,6 +130,7 @@ module.exports = (browser) => {
     .pause(5000)
     .useCss()
     //Close Cart after selecting by size
+    .waitForElementVisible('span[class="shopcart-modal__close-icon"]', 10000)
     .click('span[class="shopcart-modal__close-icon"]')
     .pause(5000)
     //Color Selectors
