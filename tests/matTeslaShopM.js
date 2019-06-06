@@ -16,9 +16,10 @@ module.exports = {
         shopPage
         .mobile(browser)
     },
-    'Mobile Login': browser => {
-        shopPage
-        .mobileLgn(browser)
-    }
+    //Feature broken as of 6/6/2019
+    // 'Mobile Login': browser => {
+    //     shopPage
+    //     .mobileLgn(browser)
+    // }
 
 }

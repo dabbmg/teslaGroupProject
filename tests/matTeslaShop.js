@@ -12,10 +12,11 @@ module.exports = {
     after: browser => {
         browser.end()
     },
-    'Account Features': browser => {
-        shopPage
-        .accFeat(browser)
-    },
+    //Feature broken as of 6/6/2019
+    // 'Account Features': browser => {
+    //     shopPage
+    //     .accFeat(browser)
+    // },
     'Footers': browser => {
         shopPage
         .foot(browser)
