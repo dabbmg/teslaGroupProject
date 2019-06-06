@@ -21,10 +21,11 @@ module.exports = {
         shopPage
         .foot(browser)
     },
-    'General Browsing': browser => {
-        shopPage
-        .browse(browser)
-    },
+    ///Site updates for Pride Month
+    // 'General Browsing': browser => {
+    //     shopPage
+    //     .browse(browser)
+    // },
     'Headers and Filters': browser => {
         shopPage
         .perform(()=> {
