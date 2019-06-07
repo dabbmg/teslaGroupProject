@@ -17,10 +17,11 @@ module.exports = {
     //     shopPage
     //     .accFeat(browser)
     // },
-    'Footers': browser => {
-        shopPage
-        .foot(browser)
-    },
+    ///Half the Footers are blocked by a formatting change on the site
+    // 'Footers': browser => {
+    //     shopPage
+    //     .foot(browser)
+    // },
     ///Site updates for Pride Month
     // 'General Browsing': browser => {
     //     shopPage
